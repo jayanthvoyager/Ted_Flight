@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: e5ee5523721a5b24984564ba273978c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4999296640260529058
+    second: arrow_sheet (1)_0
+  - first:
+      213: 7476308734843717379
+    second: arrow_sheet (1)_1
+  - first:
+      213: -5544784662495415330
+    second: arrow_sheet (1)_2
+  - first:
+      213: 5633906181020133567
+    second: arrow_sheet (1)_3
+  - first:
+      213: -302244843768347368
+    second: arrow_sheet (1)_4
+  - first:
+      213: -8965859789526300598
+    second: arrow_sheet (1)_5
+  - first:
+      213: 6350672784729011021
+    second: arrow_sheet (1)_6
+  - first:
+      213: -1240575343182148339
+    second: arrow_sheet (1)_7
+  - first:
+      213: -8123390024762803205
+    second: arrow_sheet (1)_8
+  - first:
+      213: -6973151522833607310
+    second: arrow_sheet (1)_9
+  - first:
+      213: 1854304693240317241
+    second: arrow_sheet (1)_10
+  - first:
+      213: -547595367777535229
+    second: arrow_sheet (1)_11
+  - first:
+      213: -2909591797038549094
+    second: arrow_sheet (1)_12
+  - first:
+      213: -6089018695563839219
+    second: arrow_sheet (1)_13
+  - first:
+      213: 6081853165798715970
+    second: arrow_sheet (1)_14
+  - first:
+      213: 3061805431062332660
+    second: arrow_sheet (1)_15
+  - first:
+      213: -5658255119179123507
+    second: arrow_sheet (1)_16
+  - first:
+      213: -2171664694872667849
+    second: arrow_sheet (1)_17
+  - first:
+      213: 5686771861016558319
+    second: arrow_sheet (1)_18
+  - first:
+      213: -5114673513329725630
+    second: arrow_sheet (1)_19
+  - first:
+      213: 4384076321021679826
+    second: arrow_sheet (1)_0
+  - first:
+      213: 4336951865295417256
+    second: arrow_sheet (1)_1
+  - first:
+      213: 1218082973054335661
+    second: arrow_sheet (1)_2
+  - first:
+      213: -7528193567927729728
+    second: arrow_sheet (1)_3
+  - first:
+      213: 8192948493854050804
+    second: arrow_sheet (1)_4
+  - first:
+      213: 6715404863968578315
+    second: arrow_sheet (1)_5
+  - first:
+      213: -8773306522934166187
+    second: arrow_sheet (1)_6
+  - first:
+      213: 7917037313062193660
+    second: arrow_sheet (1)_7
+  - first:
+      213: 3251259866401551628
+    second: arrow_sheet (1)_8
+  - first:
+      213: 1342343914263671215
+    second: arrow_sheet (1)_9
+  - first:
+      213: 8414878425768061101
+    second: arrow_sheet (1)_10
+  - first:
+      213: 5072033854642881124
+    second: arrow_sheet (1)_11
+  - first:
+      213: -1335112385439093304
+    second: arrow_sheet (1)_12
+  - first:
+      213: -9148010943886549962
+    second: arrow_sheet (1)_13
+  - first:
+      213: 2770375146237131744
+    second: arrow_sheet (1)_14
+  - first:
+      213: -1307586301248156086
+    second: arrow_sheet (1)_15
+  - first:
+      213: -6609169103919619134
+    second: arrow_sheet (1)_16
+  - first:
+      213: -8776693403936318530
+    second: arrow_sheet (1)_17
+  - first:
+      213: 4199044819974762077
+    second: arrow_sheet (1)_18
+  - first:
+      213: 8998751053295737275
+    second: arrow_sheet (1)_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arrow_sheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8d2b6af2e57dc30800000000000000
+      internalID: 4384076321021679826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 84
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afa6ea4eb2ff2c30800000000000000
+      internalID: 4336951865295417256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 84
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daafad3a20087e010800000000000000
+      internalID: 1218082973054335661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 84
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1894706db768790800000000000000
+      internalID: -7528193567927729728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f90e3f3f3333b170800000000000000
+      internalID: 8192948493854050804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 63
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b07cfd429e13d50800000000000000
+      internalID: 6715404863968578315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 63
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d34ea4334fe3680800000000000000
+      internalID: -8773306522934166187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 63
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9c59e6d77fedd60800000000000000
+      internalID: 7917037313062193660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0539516f9bce1d20800000000000000
+      internalID: 3251259866401551628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 42
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1f7109da6f0a210800000000000000
+      internalID: 1342343914263671215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 42
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8e0042857a7c470800000000000000
+      internalID: 8414878425768061101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 42
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4628eb20beb736640800000000000000
+      internalID: 5072033854642881124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdada2fb5ab87de0800000000000000
+      internalID: -1335112385439093304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 21
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c9148c38cbb0180800000000000000
+      internalID: -9148010943886549962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 21
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebf8067489527620800000000000000
+      internalID: 2770375146237131744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 21
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ecfe8df258adde0800000000000000
+      internalID: -1307586301248156086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3626487b38744a0800000000000000
+      internalID: -6609169103919619134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb9cdb99dbe23680800000000000000
+      internalID: -8776693403936318530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e2a8a2401064a30800000000000000
+      internalID: 4199044819974762077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrow_sheet (1)_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb95dd1d76cf1ec70800000000000000
+      internalID: 8998751053295737275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
